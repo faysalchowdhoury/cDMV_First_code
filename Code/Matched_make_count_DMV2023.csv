@@ -1,0 +1,125 @@
+Make,sourceTypeName,Vehicles
+OTHER/UNK,Other,318983
+TOYOTA,Passenger Car ,48709
+FORD,Passenger Car,47262
+CHEVROLET,Passenger Car,34812
+HONDA,Passenger Car ,30496
+LEXUS,Passenger Car ,19385
+NISSAN,Passenger Car ,19179
+DODGE,Passenger Car ,16217
+MERCEDES-BENZ,Passenger Car,16108
+BMW,Passenger Car ,15802
+HYUNDAI,Passenger Car ,15621
+VOLKSWAGEN,passenger Car,15459
+JEEP,Passenger Car ,14610
+SUBARU,Passenger Car,14423
+KIA,Passenger Car ,14244
+GMC,Passenger Truck,13768
+MAZDA,Passenger Car ,13579
+ACURA,Passenger Car ,10458
+AUDI,Passenger Car ,9751
+RAM,Passenger Truck ,8875
+INFINITI,Passanger Car,6861
+TESLA,Passenger Car,6805
+CADILLAC,Passenger Car ,5241
+SCION,Passenger Car ,5066
+PORSCHE,Passenger Car,4360
+CHRYSLER,Passenger Car ,4353
+VOLVO,Passenger Car,4308
+MINI,Passenger Car ,3810
+FREIGHTLINER,Light Commercial Truck,3465
+LAND ROVER,Passenger Car,3275
+BUICK,Passenger Car,2948
+MITSUBISHI,Passenger Car,2350
+Unk,Other,1793
+LINCOLN,Passenger Car,1595
+PONTIAC,Passenger Car ,1439
+PETERBILT,Combination Long-haul Truck,1238
+SATURN,Passenger Car,1231
+JAGUAR,Passenger Car,1051
+MERCURY,Passenger Car,891
+KENWORTH,Combination Long-haul Truck,790
+INTERNATIONAL,Combination Long-haul Truck,782
+ISUZU,Single Unit Short-haul Truck,700
+HUMMER,Passenger Truck,556
+FIAT,Passenger Car,550
+SUZUKI,Passenger Car,497
+OLDSMOBILE,Passenger Car,456
+WORKHORSE,Light Commercial Truck,319
+GENESIS,Passenger Car,242
+HINO,Single Unit Short-haul Truck,209
+SAAB,Passenger Car,188
+PLYMOUTH,Passenger Car,185
+ALFA ROMEO,Passenger Car,178
+AUTOCAR,Single Unit Short-haul Truck,147
+RIVIAN,Passerger Car,105
+GEO,Passenger Car,101
+BLUE BIRD,School Bus,98
+GILLIG,Transit Bus,93
+THOMAS BUS,School Bus,91
+NEW FLYER,Transit Bus,85
+ROADMASTER,Single Unit Short-haul Truck,84
+MACK,Combination Long-haul Truck,81
+UNKNOWN,Other,74
+BENTLEY,Passerger Car,52
+FERRARI,Passerger Car,52
+MASERATI,Passerger Car,42
+IC BUS LLC,School Bus,39
+SMART,Passerger Car,35
+POLESTAR,Passerger Car,34
+SPARTAN,Combination Long-haul Truck,29
+IC BUS,School Bus,28
+VAN HOOL,Transit Bus,26
+PIERCE,Refuse Truck,23
+EL DORADO,Transit Bus,21
+KALMAR,Light Commercial Truck,19
+ROLLS-ROYCE,Passerger Car,17
+WESTERN STAR,Combination Long-haul Truck,15
+MOTOR COACH INDUSTRIES,Transit Bus,15
+BYD COACH AND BUS,Transit Bus,11
+NORTH AMERICAN BUS INDUSTRIES,Transit Bus,10
+AMERICAN LAFRANCE,Transit Bus,9
+KOVATCH MOBLIE EQUIPMENT CORP.,Other Buses,9
+STERLING,Combination Long-haul Truck,9
+CRANE CARRIER,Combination Short-haul Truck,8
+LAMBORGHINI,Passerger Car,8
+FLXIBLE TRANSIT COACHES,Transit Bus,7
+ORION,Transit Bus,7
+ASTON MARTIN,Passerger Car,7
+HME,Combination Short-haul Truck,6
+PREVOST,Transit Bus,6
+CRUISE,Passerger Car,5
+AM GENERAL,Combination Short-haul Truck,5
+LUCID,Passerger Car,5
+TMC,Single Unit Long-haul Truck,4
+GLOBAL ENVIRONMENTAL,Transit Bus,4
+KOVATCH,Other Buses,4
+TICO,Single Unit Long-haul Truck,4
+WHITE/GMC,Single Unit Long-haul Truck,3
+GREENPOWER MOTOR,Transit Bus,3
+NORTH AMERICAN,Transit Bus,3
+NEOPLAN,Transit Bus,3
+ALLIANZ,Combination Short-haul Truck,3
+WHITE,Light Commercial Truck,2
+XOS,Transit Bus,2
+LODAL,Transit Bus,2
+PROTERRA,Transit Bus,2
+ARBOC,Transit Bus,2
+BLUEBIRD,School Bus,2
+MOTOR COACH IND,Transit Bus,2
+MAN TRUCK AND BUS CORPORATION,Combination Long-haul Truck,2
+CAPACITY,Single Unit Short-haul Truck,2
+EMERGENCY ONE,Refuse Truck,1
+BRIGHTDROP,Passerger Truck,1
+VPG,Passerger Car,1
+CATERPILLAR,Single Unit Long-haul Truck,1
+COUNTRY COACH,Motor Home,1
+SPECIAL CONSTRUCTION,Other,1
+FWD,Single Unit Short-haul Truck,1
+SEAGRAVE,Refuse Truck,1
+TROLLEY,Transit Bus,1
+ALEXANDER DENNIS,Transit Bus,1
+MG,Passerger Car,1
+ORANGE EV,Transit Bus,1
+OSHKOSH,Combination Short-haul Truck,1
+LOTUS,Passerger Car,1
